@@ -1,3 +1,4 @@
+#python
 def fast_sieve_for_primes_to(n):
   size = n//2
   sieve = [1]*size
